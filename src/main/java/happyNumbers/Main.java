@@ -1,3 +1,5 @@
+package happyNumbers;
+
 public class Main {
     public static void main(String[] args) {
         Lucky lucky = new Lucky();
